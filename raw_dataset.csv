@@ -1,0 +1,6 @@
+name,gender,date,score
+Alice,Female,01/02/2022,85
+Bob,Male,2022-02-03,90
+Alice,FEMALE,1 Feb 2022,85
+Charlie,,2022/02/04,
+David,Male,invalid_date,75
